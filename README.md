@@ -58,3 +58,6 @@ UI 총괄
 
 ### 5. 중간 발표 영상
 [![Video Label](http://img.youtube.com/vi/L2v36Jh5avs/0.jpg)](https://youtu.be/L2v36Jh5avs=0s)
+
+### 6. 최종 발표 영상
+[![Video Label](http://img.youtube.com/vi/g5hw24BbQTw/0.jpg)](https://youtu.be/g5hw24BbQTw)
